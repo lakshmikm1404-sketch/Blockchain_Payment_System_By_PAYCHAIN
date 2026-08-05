@@ -10,9 +10,7 @@ pip install -r requirements.txt
 
 uvicorn app.main:app --reload
 
-## API Docs
 
-http://localhost:8000/docs
 
 ## Dashboard
 
