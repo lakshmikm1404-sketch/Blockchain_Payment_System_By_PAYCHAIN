@@ -1,6 +1,6 @@
 # ChainPay
 
-ChainPay style blockchain payment gateway.
+ChainPay style blockchain payment gateway.ChainPay is a blockchain-based payment platform that collects payment requests through Streamlit, processes them using FastAPI, executes secure transactions via Solidity smart contracts, stores transaction records in a database, and provides insights through an analytics dashboard. It offers secure, transparent, automated, and efficient payment processing while ensuring reliable record management and real-time monitoring.
 
 ## Install
 
